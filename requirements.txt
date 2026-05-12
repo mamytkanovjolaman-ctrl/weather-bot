@@ -1,4 +1,4 @@
 aiogram==3.7.0
-groq
-aiohttp
-apscheduler
+groq==0.9.0
+aiohttp==3.9.5
+apscheduler==3.10.4
