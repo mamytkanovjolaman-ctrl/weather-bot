@@ -1,4 +1,2 @@
-aiogram==3.7.0
-groq
-aiohttp
-apscheduler==3.10.4
+python-telegram-bot==21.6
+requests
